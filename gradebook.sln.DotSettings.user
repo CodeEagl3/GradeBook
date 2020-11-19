@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9e7a1747_002Dbfec_002D4753_002Dab02_002D20b7eff031c4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TypeTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::AEFD4198-F094-4B87-8468-EB20E508710C::.NETCoreApp,Version=v3.1::GradeBook.Tests.TypeTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ad2b9d05_002Dbcbb_002D4a11_002D8799_002Dc131ed2669a8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::AEFD4198-F094-4B87-8468-EB20E508710C::.NETCoreApp,Version=v3.1::GradeBook.Tests.TypeTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::AEFD4198-F094-4B87-8468-EB20E508710C::.NETCoreApp,Version=v3.1::GradeBook.Tests.BookTests.BookCalculatesStatistics&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

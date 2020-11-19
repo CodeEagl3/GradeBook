@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d46759c-b992-4a68-8e85-f6f353fba212" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/test/GradeBook.Tests/BookTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/GradeBook.Tests/TypeTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GradeBook/Statistics.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GradeBook/Book.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GradeBook/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/Book.cs" />
+        <option value="$PROJECT_DIR$/test/GradeBook.Tests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/GradeBook/Program.cs" />
+        <option value="$PROJECT_DIR$/GradeBook/Book.cs" />
+        <option value="$PROJECT_DIR$/test/GradeBook.Tests/BookTests.cs" />
+        <option value="$PROJECT_DIR$/test/GradeBook.Tests/BookTests1.cs" />
+        <option value="$PROJECT_DIR$/test/GradeBook.Tests/TypeTests.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k4GBjyZEwIhS8AQLzSHPuBvVKc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="do_not_show_solution_notification" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+  </component>
+  <component name="RunManager" selected=".NET Project.GradeBook">
+    <configuration name="GradeBook" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/GradeBook.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d46759c-b992-4a68-8e85-f6f353fba212" name="Default Changelist" comment="" />
+      <created>1604952331456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604952331456</updated>
+      <workItem from="1604952369559" duration="806000" />
+      <workItem from="1605116369582" duration="1647000" />
+      <workItem from="1605119033376" duration="1782000" />
+      <workItem from="1605179407334" duration="2745000" />
+      <workItem from="1605182344988" duration="111000" />
+      <workItem from="1605342778049" duration="603000" />
+      <workItem from="1605461304868" duration="340000" />
+      <workItem from="1605461901998" duration="1253000" />
+      <workItem from="1605524606376" duration="3912000" />
+      <workItem from="1605609351140" duration="140000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="483" y="73" key="#GradeBook" timestamp="1605461686821">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="483" y="73" key="#GradeBook/0.0.1600.900@0.0.1600.900" timestamp="1605461686821" />
+    <state width="980" height="192" key="GridCell.Tab.0.bottom" timestamp="1605182337521">
+      <screen x="1600" y="0" width="1024" height="768" />
+    </state>
+    <state width="1600" height="269" key="GridCell.Tab.0.bottom/0.0.1600.900/1600.0.1024.768@0.0.1600.900" timestamp="1604953228544" />
+    <state width="980" height="192" key="GridCell.Tab.0.bottom/0.0.1600.900/1600.0.1024.768@1600.0.1024.768" timestamp="1605182337521" />
+    <state width="980" height="192" key="GridCell.Tab.0.center" timestamp="1605182337521">
+      <screen x="1600" y="0" width="1024" height="768" />
+    </state>
+    <state width="1600" height="269" key="GridCell.Tab.0.center/0.0.1600.900/1600.0.1024.768@0.0.1600.900" timestamp="1604953228544" />
+    <state width="980" height="192" key="GridCell.Tab.0.center/0.0.1600.900/1600.0.1024.768@1600.0.1024.768" timestamp="1605182337521" />
+    <state width="980" height="192" key="GridCell.Tab.0.left" timestamp="1605182337520">
+      <screen x="1600" y="0" width="1024" height="768" />
+    </state>
+    <state width="1600" height="269" key="GridCell.Tab.0.left/0.0.1600.900/1600.0.1024.768@0.0.1600.900" timestamp="1604953228543" />
+    <state width="980" height="192" key="GridCell.Tab.0.left/0.0.1600.900/1600.0.1024.768@1600.0.1024.768" timestamp="1605182337520" />
+    <state width="980" height="192" key="GridCell.Tab.0.right" timestamp="1605182337521">
+      <screen x="1600" y="0" width="1024" height="768" />
+    </state>
+    <state width="1600" height="269" key="GridCell.Tab.0.right/0.0.1600.900/1600.0.1024.768@0.0.1600.900" timestamp="1604953228544" />
+    <state width="980" height="192" key="GridCell.Tab.0.right/0.0.1600.900/1600.0.1024.768@1600.0.1024.768" timestamp="1605182337521" />
+    <state x="1704" y="115" key="Rider.ProjectTemplateDialog.Size" timestamp="1605181812223">
+      <screen x="1600" y="0" width="1024" height="768" />
+    </state>
+    <state x="1704" y="115" key="Rider.ProjectTemplateDialog.Size/0.0.1600.900/1600.0.1024.768@1600.0.1024.768" timestamp="1605181812223" />
+    <state x="41" y="2" key="SettingsEditor" timestamp="1605461545049">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="353" y="14" key="SettingsEditor/0.0.1600.900/1600.0.1024.768@0.0.1600.900" timestamp="1604952970746" />
+    <state x="1626" y="2" key="SettingsEditor/0.0.1600.900/1600.0.1024.768@1600.0.1024.768" timestamp="1605118766879" />
+    <state x="41" y="2" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1605461545049" />
+    <state x="625" y="243" width="611" height="282" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1604952955484">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="625" y="243" width="611" height="282" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1600.900/1600.0.1024.768@0.0.1600.900" timestamp="1604952955484" />
+    <state x="463" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1605462742239">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="463" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1600.900/1600.0.1024.768@0.0.1600.900" timestamp="1605116383085" />
+    <state x="463" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1600.900@0.0.1600.900" timestamp="1605462742239" />
+  </component>
+</project>
